@@ -2,55 +2,151 @@
 
 # ANUJ PATIL
 
-**Data Science** • **Full Stack** • **AI & Automation**
+### Data Science • Full Stack • AI & Automation
 
-*Building intelligent digital experiences.*
+<p>
+  <a href="https://anujpatil-portfolio.vercel.app">🌐 Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/">💼 LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:your-email@example.com">📧 Email</a>
+</p>
 
 </div>
 
 ---
 
-## About
+## 👋 About Me
 
-Data science and full-stack engineer focused on intelligent systems and automation. I work across quantum computing, AI integration, and backend architecture—building both experimental projects and production systems.
+I'm **Anuj Patil**, a Data Science student and developer who enjoys turning ideas into practical software.
 
-Currently studying at **NMIMS, Mumbai**. Exploring data science, system design, and the intersection of classical and quantum computing.
+I work across **full-stack development, data science, AI, and automation**, with a focus on building projects that solve real problems and help me grow as an engineer.
 
----
+I'm particularly interested in:
 
-## Work
-
-### **Advanced Discord Bot**
-JavaScript · Node.js, Discord.js, Qiskit, MongoDB  
-Modular production-ready bot featuring advanced music system, AI integrations (Ollama/ChatGPT), and moderation with event logging.  
-[Repository](https://github.com/anujnpatil/advance_discord_bot)
-
-### **Quantum Coin Simulator**
-Python · Qiskit, Visualization  
-Educational simulator demonstrating quantum fundamentals: superposition, interference, measurement collapse, and the observer effect. Interactive CLI with Bloch sphere visualizations.  
-[Repository](https://github.com/anujnpatil/quantum_coin_simulator)
+- 🧠 Data Science & AI
+- 💻 Full Stack Development
+- ⚙️ Automation & APIs
+- 🧩 Problem Solving
+- 🚀 Building practical software
 
 ---
 
-## Technical Stack
+## 🛠️ Tech Stack
 
-**Languages**  
-Python · JavaScript · C · C++
+### Languages
 
-**Backends**  
-Node.js · Express · MongoDB
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,c,html,css" />
+</p>
 
-**Frontends**  
-React · Tailwind CSS · HTML/CSS
+### Frontend
 
-**Data & AI**  
-Qiskit · Pandas · NumPy
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
-**Tools**  
-Git · GitHub · VS Code · Linux
+### Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Data & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
+</p>
+
+> Only keep technologies that actually appear in your portfolio/GitHub.
 
 ---
 
-## Connect
+# 🚀 Featured Projects
 
-[Portfolio](https://anujpatil-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/anuj-patil-192253409/) · [Email](mailto:anujnpatil@gmail.com)
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Advanced Discord Bot
+
+A Discord automation project built to explore bots, APIs, and backend development.
+
+**Stack:**  
+`JavaScript` · `Node.js`
+
+<a href="https://github.com/anujnpatil/advance_discord_bot">
+View Repository →
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🪙 Quantum Coin Simulator
+
+A project exploring quantum concepts through an interactive software implementation.
+
+**Stack:**  
+`Python`
+
+<a href="https://github.com/anujnpatil/quantum_coin_simulator">
+View Repository →
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎮 Tic Tac Toe
+
+A classic game project focused on programming fundamentals, logic, and user interaction.
+
+**Stack:**  
+`JavaScript`
+
+<a href="https://github.com/anujnpatil/tic_tac_toe">
+View Repository →
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🎓 Student Management System
+
+A management system built to practice application development and data handling.
+
+**Stack:**  
+`C`
+
+<a href="https://github.com/anujnpatil/student_management_system">
+View Repository →
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 What I'm Exploring
+
+```text
+Data Science
+     ↓
+Machine Learning
+     ↓
+Full Stack Development
+     ↓
+AI & Automation
+     ↓
+Building real-world projects
