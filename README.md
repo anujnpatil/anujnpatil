@@ -1,70 +1,72 @@
 <div align="center">
 
-# ANUJ PATIL
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Anuj+Patil+%F0%9F%91%8B;Data+Science+Student+%F0%9F%A7%A0;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Building+things+that+actually+work+%F0%9F%9A%80" alt="Typing Animation" />
 
-### Data Science • Full Stack • AI & Automation
+<br>
 
-<p>
-  <a href="https://anujpatil-portfolio.vercel.app">🌐 Portfolio</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/">💼 LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:your-email@example.com">📧 Email</a>
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Animation">
+
+<br><br>
+
+<a href="https://anujpatil-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00E5FF?style=for-the-badge&labelColor=141313" />
+</a>
+
+<a href="https://github.com/anujnpatil">
+<img src="https://img.shields.io/badge/GitHub-Follow-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=141313" />
+</a>
+
+<a href="https://www.linkedin.com/in/anuj-patil-192253409/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=141313" />
+</a>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🧑‍💻 About Me
 
-I'm **Anuj Patil**, a Data Science student and developer who enjoys turning ideas into practical software.
+<img align="right" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-I work across **full-stack development, data science, AI, and automation**, with a focus on building projects that solve real problems and help me grow as an engineer.
+Hey! I'm **Anuj Patil** 👋
 
-I'm particularly interested in:
+I'm a **Data Science student and developer** who enjoys building practical software and experimenting with new technologies.
 
-- 🧠 Data Science & AI
+I'm interested in:
+
+- 🧠 Data Science & Machine Learning
 - 💻 Full Stack Development
-- ⚙️ Automation & APIs
+- 🤖 AI & Automation
+- ⚙️ APIs & Backend Systems
 - 🧩 Problem Solving
-- 🚀 Building practical software
+
+I enjoy taking an idea from **"this could be useful" → "let's build it."**
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Tech Stack
+
+<div align="center">
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,c,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" />
 
-### Frontend
+### Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
 
-### Backend & APIs
+### Data / AI
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Data & AI
-
-<p>
 <img src="https://skillicons.dev/icons?i=python" />
-</p>
 
 ### Databases & Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
-</p>
 
-> Only keep technologies that actually appear in your portfolio/GitHub.
+</div>
 
 ---
 
@@ -72,81 +74,99 @@ I'm particularly interested in:
 
 <table>
 <tr>
-<td width="50%">
 
-### 🤖 Advanced Discord Bot
+<td width="50%" valign="top">
 
-A Discord automation project built to explore bots, APIs, and backend development.
+## 🪙 Quantum Coin Simulator
 
-**Stack:**  
-`JavaScript` · `Node.js`
+A project exploring quantum computing concepts through a simple coin-flip simulation.
 
-<a href="https://github.com/anujnpatil/advance_discord_bot">
-View Repository →
-</a>
+**Tech**
 
-</td>
+`Python` `Qiskit`
 
-<td width="50%">
-
-### 🪙 Quantum Coin Simulator
-
-A project exploring quantum concepts through an interactive software implementation.
-
-**Stack:**  
-`Python`
+<br>
 
 <a href="https://github.com/anujnpatil/quantum_coin_simulator">
-View Repository →
+<img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&labelColor=141313" />
 </a>
 
 </td>
+
+<td width="50%" valign="top">
+
+## 🤖 Advanced Discord Bot
+
+A Discord bot project exploring automation, APIs, moderation and additional bot functionality.
+
+**Tech**
+
+`JavaScript` `Node.js` `Discord API`
+
+<br>
+
+<a href="https://github.com/anujnpatil/advance_discord_bot">
+<img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&labelColor=141313" />
+</a>
+
+</td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🎮 Tic Tac Toe
+<td width="50%" valign="top">
 
-A classic game project focused on programming fundamentals, logic, and user interaction.
+## 🎮 Tic Tac Toe
 
-**Stack:**  
-`JavaScript`
+A classic game project built while practicing programming fundamentals and application logic.
+
+**Tech**
+
+`C` `Algorithms` `CLI`
+
+<br>
 
 <a href="https://github.com/anujnpatil/tic_tac_toe">
-View Repository →
+<img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&labelColor=141313" />
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 Student Management System
+## 🎓 Student Management System
 
-A management system built to practice application development and data handling.
+A console-based application for managing student information and results.
 
-**Stack:**  
-`C`
+**Tech**
+
+`C++` `Data Structures`
+
+<br>
 
 <a href="https://github.com/anujnpatil/student_management_system">
-View Repository →
+<img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&labelColor=141313" />
 </a>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 📚 What I'm Exploring
+# 🧠 Currently Exploring
+
+<div align="center">
 
 ```text
-Data Science
-     ↓
-Machine Learning
-     ↓
-Full Stack Development
-     ↓
-AI & Automation
-     ↓
-Building real-world projects
+╔══════════════════════════════════════════════╗
+║                                              ║
+║   🧠  DATA SCIENCE & MACHINE LEARNING       ║
+║   💻  FULL STACK DEVELOPMENT                ║
+║   🤖  AI & AUTOMATION                       ║
+║   ⚙️   BACKEND & APIs                       ║
+║   🧩  DATA STRUCTURES & PROBLEM SOLVING     ║
+║                                              ║
+╚══════════════════════════════════════════════╝
